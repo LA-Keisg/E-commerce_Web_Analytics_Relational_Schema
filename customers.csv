@@ -1,0 +1,2001 @@
+customer_id,customer_type,registration_date,region
+704440211,Standard,2023-01-29,London
+998841529,Standard,2023-02-11,North West
+575475529,Standard,2023-02-24,London
+655049863,Standard,2023-02-26,West Midlands
+386537210,Member,2023-02-28,West Midlands
+738358107,Member,2023-03-03,South West
+610770174,Standard,2023-03-10,Yorkshire and the Humber
+181503004,Trade,2023-03-16,South East
+322004141,Standard,2023-03-18,London
+575635715,Standard,2023-03-25,London
+389134423,Standard,2023-03-27,West Midlands
+848593368,Standard,2023-03-30,London
+973944686,Standard,2023-03-30,North West
+785889307,Trade,2023-03-31,Yorkshire and the Humber
+417877131,Standard,2023-04-02,South East
+790065882,Standard,2023-04-04,North West
+277989073,Standard,2023-04-06,Scotland
+465725067,Standard,2023-04-07,Yorkshire and the Humber
+681822469,Standard,2023-04-08,Wales
+755520489,Standard,2023-04-12,North West
+634583842,Standard,2023-04-14,West Midlands
+765766893,Standard,2023-04-15,South West
+464365019,Standard,2023-04-16,London
+477979351,Standard,2023-04-16,Yorkshire and the Humber
+164023630,Standard,2023-04-17,South East
+337565394,Member,2023-04-18,Scotland
+408687604,Trade,2023-04-18,South West
+866030900,Standard,2023-04-22,West Midlands
+626707387,Standard,2023-04-23,Northern Ireland
+191299036,Standard,2023-04-25,Scotland
+572664034,Member,2023-04-25,East of England
+653332566,Standard,2023-04-27,London
+953882938,Standard,2023-04-29,South West
+266379086,Standard,2023-04-30,East Midlands
+404074637,Standard,2023-04-30,West Midlands
+306537147,Member,2023-05-02,Wales
+489095628,Standard,2023-05-03,South East
+414662137,Standard,2023-05-05,South East
+577520595,Standard,2023-05-07,Yorkshire and the Humber
+776837626,Standard,2023-05-07,East of England
+242893919,Standard,2023-05-08,London
+842269506,Standard,2023-05-08,East of England
+192347910,Standard,2023-05-12,London
+274143764,Standard,2023-05-13,South West
+872619765,Standard,2023-05-13,East Midlands
+627240617,Member,2023-05-14,London
+532130346,Standard,2023-05-17,London
+934491737,Standard,2023-05-19,North West
+582700329,Standard,2023-05-21,Yorkshire and the Humber
+247520825,Trade,2023-05-27,East of England
+393848720,Standard,2023-05-27,North West
+213939703,Trade,2023-05-28,Northern Ireland
+166008999,Standard,2023-05-29,South East
+662831470,Standard,2023-05-29,Yorkshire and the Humber
+448419336,Standard,2023-05-31,East Midlands
+553517886,Standard,2023-06-02,North West
+624693611,Standard,2023-06-03,London
+444801476,Standard,2023-06-05,South East
+516946476,Standard,2023-06-06,North West
+720183560,Trade,2023-06-07,Northern Ireland
+548236605,Trade,2023-06-08,Scotland
+759746674,Standard,2023-06-12,London
+394038910,Standard,2023-06-15,East of England
+872662275,Standard,2023-06-15,East of England
+333954566,Standard,2023-06-16,Wales
+674658297,Standard,2023-06-16,East Midlands
+151916282,Standard,2023-06-17,North West
+733683811,Standard,2023-06-17,South East
+871442947,Member,2023-06-18,Wales
+476503471,Member,2023-06-20,North West
+305899635,Standard,2023-06-21,London
+627466873,Standard,2023-06-21,South East
+213020741,Standard,2023-06-25,London
+942309027,Member,2023-06-26,North West
+440953437,Trade,2023-06-27,North West
+123488053,Standard,2023-06-28,Northern Ireland
+393990902,Standard,2023-06-29,Wales
+882283478,Trade,2023-06-30,North East
+468510254,Standard,2023-07-01,Scotland
+197959551,Member,2023-07-03,North West
+876943347,Member,2023-07-03,East Midlands
+261426855,Standard,2023-07-05,London
+828913588,Standard,2023-07-05,South East
+750064318,Standard,2023-07-06,North West
+707937432,Standard,2023-07-07,Yorkshire and the Humber
+113850509,Standard,2023-07-09,Scotland
+188997371,Trade,2023-07-11,South West
+214042601,Member,2023-07-12,London
+137656458,Standard,2023-07-14,Yorkshire and the Humber
+597708420,Member,2023-07-15,London
+935369729,Standard,2023-07-15,South East
+447275038,Standard,2023-07-17,South East
+706029885,Standard,2023-07-17,Northern Ireland
+225643069,Trade,2023-07-18,South East
+943098791,Standard,2023-07-18,South East
+699152851,Member,2023-07-22,London
+631841619,Member,2023-07-23,South East
+643356155,Standard,2023-07-23,London
+910884515,Standard,2023-07-23,London
+383822132,Standard,2023-07-24,South East
+409191220,Standard,2023-07-25,Yorkshire and the Humber
+619043273,Standard,2023-07-25,Northern Ireland
+534856179,Standard,2023-07-26,South East
+822109158,Standard,2023-07-26,South East
+791493959,Member,2023-07-27,Northern Ireland
+110721680,Standard,2023-07-28,West Midlands
+693244099,Standard,2023-07-28,East Midlands
+617059949,Standard,2023-07-30,Yorkshire and the Humber
+173003520,Standard,2023-07-31,Wales
+764708048,Member,2023-07-31,North West
+470198579,Standard,2023-08-01,Yorkshire and the Humber
+618040397,Trade,2023-08-01,South East
+695348664,Standard,2023-08-01,South East
+834868452,Standard,2023-08-01,Scotland
+603064864,Standard,2023-08-02,North East
+979269669,Standard,2023-08-02,South West
+801840435,Standard,2023-08-03,North West
+732782152,Member,2023-08-06,London
+123798337,Standard,2023-08-13,North West
+455896260,Standard,2023-08-13,South East
+590533086,Standard,2023-08-13,Scotland
+859711439,Standard,2023-08-14,East Midlands
+516337786,Standard,2023-08-16,Yorkshire and the Humber
+648406049,Member,2023-08-17,South East
+904771143,Standard,2023-08-17,London
+163713999,Standard,2023-08-21,London
+260022101,Standard,2023-08-21,North West
+601454078,Member,2023-08-22,South West
+553861555,Standard,2023-08-23,London
+521413336,Standard,2023-08-26,West Midlands
+605943591,Member,2023-08-26,North West
+655669407,Standard,2023-08-26,Yorkshire and the Humber
+118872007,Member,2023-08-27,West Midlands
+423591064,Member,2023-08-28,East of England
+351534966,Standard,2023-08-29,Yorkshire and the Humber
+370611959,Standard,2023-08-29,London
+698385465,Standard,2023-08-29,London
+168362542,Standard,2023-08-30,West Midlands
+668063077,Standard,2023-08-30,North West
+849470807,Member,2023-08-30,East Midlands
+990707699,Standard,2023-08-31,South East
+219161903,Standard,2023-09-01,South East
+282158497,Member,2023-09-01,North West
+344462923,Standard,2023-09-01,East of England
+906196421,Standard,2023-09-01,North West
+994576755,Standard,2023-09-02,South East
+234161336,Member,2023-09-03,South East
+171352541,Standard,2023-09-04,London
+695399436,Standard,2023-09-04,North West
+513115183,Standard,2023-09-05,South East
+373741438,Trade,2023-09-06,South East
+251711040,Standard,2023-09-07,West Midlands
+758050048,Standard,2023-09-07,North East
+795340320,Standard,2023-09-07,South East
+169824751,Standard,2023-09-08,North West
+630858742,Standard,2023-09-11,North West
+641999607,Standard,2023-09-11,North West
+496067569,Standard,2023-09-12,London
+998142554,Standard,2023-09-13,East Midlands
+122263906,Standard,2023-09-14,Yorkshire and the Humber
+168726787,Member,2023-09-17,South East
+382718063,Standard,2023-09-17,West Midlands
+588784535,Standard,2023-09-17,South West
+724043054,Standard,2023-09-17,West Midlands
+899320646,Standard,2023-09-17,Yorkshire and the Humber
+603007721,Member,2023-09-18,South East
+920165658,Standard,2023-09-18,East of England
+816142612,Standard,2023-09-22,London
+444638139,Member,2023-09-23,South East
+814586445,Standard,2023-09-24,South East
+877588753,Standard,2023-09-28,South East
+930643589,Member,2023-10-01,South East
+819066075,Standard,2023-10-02,London
+721811236,Trade,2023-10-03,Scotland
+249879492,Member,2023-10-04,London
+829702823,Member,2023-10-07,North East
+988739129,Standard,2023-10-07,South West
+311074236,Member,2023-10-09,South East
+627905986,Standard,2023-10-09,South East
+635836385,Standard,2023-10-10,West Midlands
+858348066,Standard,2023-10-10,East of England
+951837883,Standard,2023-10-10,London
+219199983,Standard,2023-10-11,Scotland
+940833126,Standard,2023-10-12,North West
+763044077,Standard,2023-10-13,South East
+224148861,Standard,2023-10-14,East Midlands
+443464491,Member,2023-10-14,West Midlands
+547859827,Member,2023-10-16,North East
+427830166,Standard,2023-10-17,London
+768720589,Standard,2023-10-17,West Midlands
+132305947,Standard,2023-10-19,Yorkshire and the Humber
+267280163,Standard,2023-10-20,East of England
+328013611,Member,2023-10-20,West Midlands
+376166342,Standard,2023-10-20,Yorkshire and the Humber
+600522939,Standard,2023-10-20,North West
+708755079,Standard,2023-10-20,West Midlands
+128227592,Standard,2023-10-23,South East
+289579842,Standard,2023-10-23,Scotland
+671320252,Standard,2023-10-25,Yorkshire and the Humber
+924400088,Standard,2023-10-25,South East
+992313042,Standard,2023-10-28,North East
+515840900,Member,2023-10-29,South West
+248421312,Standard,2023-10-30,South East
+380801500,Standard,2023-10-30,North West
+436442927,Trade,2023-11-01,Scotland
+535684951,Standard,2023-11-01,East of England
+682642820,Standard,2023-11-01,Yorkshire and the Humber
+487280876,Standard,2023-11-02,South East
+184910824,Member,2023-11-03,East Midlands
+539246747,Standard,2023-11-03,West Midlands
+582812631,Standard,2023-11-04,North West
+403292681,Standard,2023-11-05,East of England
+767566671,Member,2023-11-06,East of England
+462601483,Standard,2023-11-07,South East
+695489112,Standard,2023-11-07,Yorkshire and the Humber
+816433618,Member,2023-11-07,North West
+324159103,Standard,2023-11-08,London
+630124314,Member,2023-11-08,South East
+846604760,Standard,2023-11-08,North East
+955247454,Standard,2023-11-08,South East
+823812821,Standard,2023-11-09,South East
+309997628,Standard,2023-11-10,South East
+238682849,Member,2023-11-11,West Midlands
+264651777,Member,2023-11-11,London
+264705156,Standard,2023-11-11,South East
+286758831,Standard,2023-11-11,West Midlands
+430535356,Standard,2023-11-11,East of England
+265810174,Standard,2023-11-12,South East
+756829196,Standard,2023-11-12,Yorkshire and the Humber
+386960413,Member,2023-11-13,South East
+614065766,Standard,2023-11-13,Wales
+695630554,Standard,2023-11-16,London
+409937525,Standard,2023-11-17,London
+668251093,Standard,2023-11-17,West Midlands
+955954989,Standard,2023-11-17,London
+900118631,Standard,2023-11-18,London
+922660594,Standard,2023-11-18,West Midlands
+831309280,Standard,2023-11-19,South West
+592228416,Standard,2023-11-20,London
+154134587,Standard,2023-11-21,East Midlands
+608325415,Standard,2023-11-21,London
+385685376,Standard,2023-11-22,North East
+457315437,Member,2023-11-22,East Midlands
+106338945,Standard,2023-11-23,East of England
+917583627,Standard,2023-11-23,West Midlands
+249467661,Standard,2023-11-25,Yorkshire and the Humber
+441379818,Standard,2023-11-25,East of England
+759384402,Standard,2023-11-25,London
+908566687,Standard,2023-11-25,South East
+478577467,Standard,2023-11-26,South East
+802849744,Standard,2023-11-26,South East
+817873807,Standard,2023-11-26,London
+357748257,Standard,2023-11-27,London
+186036983,Standard,2023-11-28,South East
+676242989,Standard,2023-11-28,North West
+768555798,Member,2023-11-29,Yorkshire and the Humber
+988726627,Member,2023-11-30,West Midlands
+447412138,Standard,2023-12-01,North West
+250255824,Member,2023-12-03,London
+419028216,Standard,2023-12-03,London
+183126193,Standard,2023-12-06,Wales
+200037070,Standard,2023-12-06,Scotland
+337360567,Member,2023-12-06,South East
+889533828,Member,2023-12-06,London
+155083999,Standard,2023-12-07,South East
+452840777,Standard,2023-12-07,London
+628937736,Standard,2023-12-07,South East
+650423356,Standard,2023-12-07,London
+907190256,Standard,2023-12-07,South West
+360950069,Member,2023-12-08,North West
+431534953,Member,2023-12-08,North West
+395192637,Standard,2023-12-10,London
+745932398,Member,2023-12-10,South West
+102258305,Standard,2023-12-12,East of England
+445659229,Standard,2023-12-14,North West
+779593742,Member,2023-12-14,Scotland
+280066852,Standard,2023-12-15,South West
+959553616,Standard,2023-12-15,South East
+362751477,Standard,2023-12-16,South East
+862141247,Standard,2023-12-18,South East
+114971440,Standard,2023-12-19,Wales
+650846911,Standard,2023-12-19,South West
+541171098,Standard,2023-12-20,London
+506084751,Standard,2023-12-21,North West
+294432881,Standard,2023-12-22,Wales
+758279436,Member,2023-12-22,London
+327931789,Member,2023-12-23,East of England
+499342706,Member,2023-12-23,London
+570810079,Member,2023-12-23,South West
+623039573,Standard,2023-12-23,North West
+678552593,Member,2023-12-23,Yorkshire and the Humber
+133707819,Standard,2023-12-24,North East
+739801394,Standard,2023-12-24,Scotland
+790734004,Standard,2023-12-24,East of England
+972167292,Member,2023-12-24,South East
+616292788,Standard,2023-12-25,North West
+798778097,Standard,2023-12-25,Wales
+119611725,Standard,2023-12-26,Scotland
+278761122,Standard,2023-12-26,London
+906617041,Standard,2023-12-27,South East
+986233662,Standard,2023-12-31,London
+331946691,Standard,2024-01-01,Yorkshire and the Humber
+317836083,Standard,2024-01-04,Scotland
+380607111,Standard,2024-01-06,North West
+499989410,Standard,2024-01-06,East of England
+996682878,Standard,2024-01-08,London
+440201101,Standard,2024-01-09,London
+258280945,Member,2024-01-10,South East
+942321718,Standard,2024-01-10,South East
+462027521,Standard,2024-01-11,London
+549012856,Standard,2024-01-11,Scotland
+145195372,Member,2024-01-12,London
+491444550,Standard,2024-01-12,North West
+504312322,Standard,2024-01-12,London
+662453851,Trade,2024-01-12,Northern Ireland
+776148020,Standard,2024-01-13,Yorkshire and the Humber
+138991269,Standard,2024-01-14,East of England
+299056628,Standard,2024-01-14,South West
+755701577,Standard,2024-01-14,London
+581009472,Standard,2024-01-15,London
+583228097,Standard,2024-01-15,South East
+296496362,Member,2024-01-16,South East
+369906228,Standard,2024-01-17,South West
+392313887,Standard,2024-01-17,South East
+708639820,Standard,2024-01-18,Yorkshire and the Humber
+282597641,Standard,2024-01-20,London
+558063766,Standard,2024-01-20,South East
+747966574,Trade,2024-01-20,South East
+150425359,Standard,2024-01-21,East of England
+234065397,Standard,2024-01-21,South West
+770350800,Member,2024-01-21,London
+788679942,Trade,2024-01-21,North East
+973831325,Standard,2024-01-22,London
+623782440,Standard,2024-01-23,South West
+957071477,Standard,2024-01-23,North West
+407864099,Member,2024-01-24,East of England
+704445504,Member,2024-01-24,London
+472738365,Standard,2024-01-28,East Midlands
+603005955,Standard,2024-01-28,Northern Ireland
+906935807,Member,2024-01-28,South East
+558047631,Member,2024-01-29,South East
+348387382,Standard,2024-01-30,East of England
+581070478,Standard,2024-01-30,Yorkshire and the Humber
+893295172,Trade,2024-01-30,Yorkshire and the Humber
+732525471,Standard,2024-01-31,West Midlands
+815492201,Standard,2024-01-31,North East
+968276774,Standard,2024-01-31,Wales
+257276201,Standard,2024-02-01,North East
+421244083,Standard,2024-02-01,London
+318504586,Member,2024-02-03,East Midlands
+525238285,Standard,2024-02-03,North West
+820381055,Member,2024-02-04,East of England
+156271460,Standard,2024-02-05,Yorkshire and the Humber
+594791614,Member,2024-02-06,Yorkshire and the Humber
+463050576,Standard,2024-02-07,Scotland
+937847799,Standard,2024-02-07,Wales
+398665752,Standard,2024-02-08,Yorkshire and the Humber
+924264339,Standard,2024-02-09,Wales
+192950332,Standard,2024-02-10,Scotland
+549901022,Standard,2024-02-10,Yorkshire and the Humber
+273249719,Standard,2024-02-11,West Midlands
+388837589,Standard,2024-02-11,North West
+879513603,Member,2024-02-11,Wales
+610600587,Standard,2024-02-12,Yorkshire and the Humber
+951163503,Standard,2024-02-12,South West
+113991864,Standard,2024-02-13,Scotland
+370944263,Standard,2024-02-13,South East
+454854691,Member,2024-02-13,West Midlands
+828340579,Standard,2024-02-13,North West
+162534939,Member,2024-02-14,Yorkshire and the Humber
+377662995,Member,2024-02-14,London
+446020374,Standard,2024-02-14,London
+633198122,Member,2024-02-14,Wales
+499429683,Standard,2024-02-16,East of England
+750049069,Standard,2024-02-17,East of England
+898924905,Member,2024-02-17,Scotland
+205507583,Standard,2024-02-18,North West
+652273683,Standard,2024-02-23,North East
+128092165,Standard,2024-02-24,South West
+864537287,Standard,2024-02-24,West Midlands
+964904967,Standard,2024-02-24,Scotland
+661503033,Standard,2024-02-25,London
+916998217,Member,2024-02-25,East Midlands
+949578170,Standard,2024-02-25,West Midlands
+993090593,Member,2024-02-25,Yorkshire and the Humber
+133510200,Trade,2024-02-26,West Midlands
+400051357,Standard,2024-02-26,North West
+933565190,Standard,2024-02-27,London
+419989568,Standard,2024-02-28,Yorkshire and the Humber
+811518590,Trade,2024-02-28,London
+924858548,Member,2024-02-28,Scotland
+505776011,Standard,2024-03-01,East Midlands
+672509089,Standard,2024-03-01,London
+764718118,Standard,2024-03-01,London
+112260149,Member,2024-03-03,London
+511098842,Member,2024-03-03,South East
+556491052,Standard,2024-03-03,South East
+630903366,Standard,2024-03-03,East Midlands
+798115320,Standard,2024-03-03,South West
+904274037,Standard,2024-03-03,West Midlands
+233388958,Standard,2024-03-04,South East
+631138394,Standard,2024-03-04,North West
+943359260,Standard,2024-03-05,West Midlands
+592097845,Standard,2024-03-06,East of England
+801056779,Standard,2024-03-06,North East
+795486253,Standard,2024-03-07,East Midlands
+856610600,Member,2024-03-07,West Midlands
+881526425,Trade,2024-03-07,Yorkshire and the Humber
+128667662,Standard,2024-03-09,London
+167226878,Standard,2024-03-09,South East
+419623430,Standard,2024-03-09,South West
+461607705,Standard,2024-03-09,London
+541515065,Standard,2024-03-09,London
+642893247,Standard,2024-03-09,Scotland
+552260606,Member,2024-03-10,West Midlands
+778143843,Standard,2024-03-11,South East
+378043534,Standard,2024-03-12,East Midlands
+108722244,Standard,2024-03-13,North West
+127416601,Standard,2024-03-14,Yorkshire and the Humber
+176019156,Standard,2024-03-14,East Midlands
+696191683,Member,2024-03-14,Wales
+233953542,Standard,2024-03-15,London
+155666841,Standard,2024-03-17,Scotland
+957088019,Standard,2024-03-17,Northern Ireland
+905081195,Standard,2024-03-18,Scotland
+236982660,Standard,2024-03-19,North West
+462744477,Standard,2024-03-19,South East
+144174895,Member,2024-03-20,North East
+377357445,Member,2024-03-20,South East
+590097028,Standard,2024-03-20,Yorkshire and the Humber
+872184416,Standard,2024-03-20,Wales
+152061341,Trade,2024-03-23,East of England
+706884170,Standard,2024-03-23,South West
+360296092,Standard,2024-03-24,South East
+573138414,Member,2024-03-24,Yorkshire and the Humber
+929710838,Standard,2024-03-24,West Midlands
+949098149,Standard,2024-03-24,South East
+612105582,Standard,2024-03-25,West Midlands
+689212646,Standard,2024-03-25,South East
+133108085,Standard,2024-03-26,West Midlands
+833557175,Member,2024-03-26,Scotland
+850664391,Standard,2024-03-26,North West
+251277915,Standard,2024-03-27,West Midlands
+315651895,Standard,2024-03-30,Yorkshire and the Humber
+630090618,Standard,2024-03-30,London
+347257890,Member,2024-03-31,Scotland
+130428964,Member,2024-04-01,London
+439263609,Member,2024-04-01,North West
+483433246,Standard,2024-04-01,Scotland
+152778039,Standard,2024-04-02,East of England
+461529681,Trade,2024-04-02,London
+250448021,Standard,2024-04-03,London
+640084927,Member,2024-04-03,North East
+475922349,Standard,2024-04-04,London
+755002076,Member,2024-04-05,London
+785632012,Standard,2024-04-05,South West
+995992053,Standard,2024-04-05,South West
+252841708,Standard,2024-04-07,South East
+364034764,Member,2024-04-08,South East
+502368022,Standard,2024-04-08,North East
+812886544,Standard,2024-04-08,West Midlands
+113042073,Standard,2024-04-10,Wales
+587407895,Standard,2024-04-10,London
+863452216,Standard,2024-04-10,East Midlands
+487632689,Member,2024-04-11,South East
+125275962,Standard,2024-04-12,Northern Ireland
+306327104,Standard,2024-04-12,Yorkshire and the Humber
+333217991,Member,2024-04-12,London
+145657340,Standard,2024-04-13,West Midlands
+363170314,Standard,2024-04-13,South East
+410981458,Trade,2024-04-14,London
+589408452,Standard,2024-04-14,North East
+667670364,Standard,2024-04-14,East Midlands
+311466885,Standard,2024-04-15,East Midlands
+426567849,Standard,2024-04-15,East Midlands
+488724092,Standard,2024-04-16,South East
+721881746,Standard,2024-04-16,London
+242183066,Standard,2024-04-18,London
+470239886,Standard,2024-04-18,Wales
+274733349,Standard,2024-04-19,South East
+276272113,Member,2024-04-19,South East
+490389829,Standard,2024-04-19,South East
+609314294,Member,2024-04-19,West Midlands
+209669436,Member,2024-04-20,East of England
+573123968,Member,2024-04-21,North West
+163499789,Standard,2024-04-23,London
+336654884,Standard,2024-04-23,Scotland
+388656060,Standard,2024-04-23,North West
+911121037,Member,2024-04-24,Yorkshire and the Humber
+138439868,Standard,2024-04-25,East of England
+161637798,Standard,2024-04-25,West Midlands
+538025708,Standard,2024-04-25,North West
+949564887,Member,2024-04-25,South East
+334631442,Standard,2024-04-26,London
+868314651,Standard,2024-04-26,London
+548265236,Member,2024-04-27,North West
+144628657,Standard,2024-04-28,South West
+266915476,Member,2024-04-28,London
+977598914,Member,2024-04-28,London
+938207063,Standard,2024-04-29,Scotland
+353648349,Standard,2024-04-30,South East
+595986912,Standard,2024-04-30,South West
+670051772,Standard,2024-04-30,London
+713818227,Standard,2024-04-30,Yorkshire and the Humber
+641324381,Standard,2024-05-02,Yorkshire and the Humber
+812638400,Standard,2024-05-02,Scotland
+707899938,Standard,2024-05-03,South East
+913444732,Member,2024-05-03,South East
+990262242,Standard,2024-05-03,East of England
+571212107,Member,2024-05-04,London
+975060622,Standard,2024-05-04,Yorkshire and the Humber
+378056016,Standard,2024-05-06,Yorkshire and the Humber
+557664517,Standard,2024-05-06,West Midlands
+579691367,Standard,2024-05-06,Wales
+536361994,Standard,2024-05-07,Yorkshire and the Humber
+971037623,Standard,2024-05-07,North West
+636259012,Standard,2024-05-11,South West
+909143924,Standard,2024-05-11,South East
+723983320,Standard,2024-05-12,South West
+920823761,Standard,2024-05-13,West Midlands
+476811556,Standard,2024-05-14,London
+799639307,Standard,2024-05-14,London
+821703882,Standard,2024-05-14,Yorkshire and the Humber
+881432101,Standard,2024-05-14,South East
+898592018,Standard,2024-05-14,West Midlands
+160016001,Standard,2024-05-15,South West
+678440211,Standard,2024-05-15,North West
+684801031,Member,2024-05-16,South East
+985726068,Standard,2024-05-16,Yorkshire and the Humber
+382472545,Standard,2024-05-17,Scotland
+860997805,Member,2024-05-17,Yorkshire and the Humber
+362843984,Member,2024-05-18,Yorkshire and the Humber
+930068523,Standard,2024-05-18,North East
+941797049,Member,2024-05-18,South West
+207995302,Member,2024-05-19,London
+306949534,Member,2024-05-20,Yorkshire and the Humber
+460975036,Member,2024-05-20,South East
+756942609,Standard,2024-05-20,Yorkshire and the Humber
+213738011,Standard,2024-05-21,South East
+296614586,Standard,2024-05-21,East Midlands
+712871294,Member,2024-05-21,London
+735152410,Member,2024-05-21,South East
+234821884,Standard,2024-05-22,West Midlands
+413594910,Standard,2024-05-22,Yorkshire and the Humber
+753268919,Standard,2024-05-22,West Midlands
+848913332,Standard,2024-05-22,East of England
+107169629,Standard,2024-05-23,East of England
+481477969,Standard,2024-05-23,London
+487397786,Standard,2024-05-23,Scotland
+842766986,Standard,2024-05-23,South East
+857151751,Standard,2024-05-23,North West
+850348621,Member,2024-05-24,South East
+144334245,Standard,2024-05-25,West Midlands
+240231034,Standard,2024-05-25,South East
+249535812,Standard,2024-05-25,North West
+389286433,Standard,2024-05-25,London
+851602377,Member,2024-05-25,West Midlands
+996962612,Standard,2024-05-25,South East
+301846519,Standard,2024-05-26,London
+384261261,Standard,2024-05-26,West Midlands
+738755600,Standard,2024-05-26,North West
+186786965,Member,2024-05-27,North East
+554589568,Standard,2024-05-27,Yorkshire and the Humber
+993188131,Standard,2024-05-27,South West
+205809882,Standard,2024-05-28,London
+383746044,Member,2024-05-29,East of England
+594776268,Member,2024-05-30,Wales
+120307902,Standard,2024-05-31,Yorkshire and the Humber
+713882784,Standard,2024-05-31,South East
+732217654,Standard,2024-05-31,East of England
+409701392,Standard,2024-06-01,London
+156723393,Standard,2024-06-02,London
+379519828,Standard,2024-06-02,Northern Ireland
+398747539,Standard,2024-06-02,South West
+535242427,Member,2024-06-02,South East
+749850735,Member,2024-06-02,South West
+871400351,Standard,2024-06-02,North West
+437550252,Member,2024-06-03,East of England
+467761114,Trade,2024-06-03,West Midlands
+985013757,Standard,2024-06-03,South East
+114720165,Standard,2024-06-04,Yorkshire and the Humber
+944870550,Standard,2024-06-04,South East
+658601057,Standard,2024-06-05,East Midlands
+117630753,Member,2024-06-06,London
+705624408,Standard,2024-06-06,South East
+875271661,Standard,2024-06-06,West Midlands
+970903180,Standard,2024-06-06,Wales
+354983751,Standard,2024-06-07,East Midlands
+155015402,Standard,2024-06-09,Wales
+266955344,Standard,2024-06-09,North West
+402670761,Standard,2024-06-09,London
+334778132,Standard,2024-06-12,West Midlands
+605052923,Trade,2024-06-12,South West
+275703145,Member,2024-06-13,London
+512658563,Standard,2024-06-14,London
+733826714,Member,2024-06-14,South East
+281959534,Standard,2024-06-15,East Midlands
+314473471,Standard,2024-06-15,North West
+985995231,Standard,2024-06-15,London
+256124733,Standard,2024-06-16,North East
+426641265,Standard,2024-06-16,North West
+555497844,Standard,2024-06-16,South East
+690849931,Standard,2024-06-16,South West
+581108181,Standard,2024-06-17,Northern Ireland
+885350589,Standard,2024-06-17,London
+946333164,Standard,2024-06-18,East Midlands
+319727254,Standard,2024-06-19,South East
+939658236,Standard,2024-06-19,Northern Ireland
+163111562,Member,2024-06-21,South East
+224446776,Standard,2024-06-21,West Midlands
+466912543,Standard,2024-06-21,South West
+565304248,Standard,2024-06-21,London
+812318924,Standard,2024-06-21,Yorkshire and the Humber
+162649200,Standard,2024-06-22,East of England
+614905660,Member,2024-06-22,West Midlands
+906633213,Member,2024-06-22,Northern Ireland
+247869881,Standard,2024-06-23,South East
+310228714,Member,2024-06-23,North West
+269208820,Standard,2024-06-25,Wales
+381089494,Standard,2024-06-25,Wales
+542345944,Standard,2024-06-25,Scotland
+786097541,Standard,2024-06-25,West Midlands
+230162141,Standard,2024-06-26,North East
+777171218,Standard,2024-06-26,South East
+477167036,Standard,2024-06-27,West Midlands
+658429459,Member,2024-06-27,North West
+787195206,Standard,2024-06-27,South East
+619873216,Standard,2024-06-28,London
+328683845,Standard,2024-06-29,Yorkshire and the Humber
+437076131,Member,2024-06-29,London
+854486473,Member,2024-06-29,North West
+561796017,Standard,2024-06-30,Scotland
+142835325,Standard,2024-07-01,South East
+531462062,Member,2024-07-01,London
+869651003,Member,2024-07-01,London
+964336441,Standard,2024-07-01,South East
+555797947,Member,2024-07-02,West Midlands
+986724093,Standard,2024-07-03,East of England
+500987616,Standard,2024-07-04,London
+861999333,Standard,2024-07-04,London
+927190450,Standard,2024-07-04,Scotland
+439653428,Standard,2024-07-05,North East
+515056728,Standard,2024-07-05,London
+624404852,Standard,2024-07-05,West Midlands
+645435799,Standard,2024-07-06,North West
+244082145,Standard,2024-07-08,South East
+587554844,Member,2024-07-08,South East
+858118658,Standard,2024-07-08,Wales
+611272104,Member,2024-07-10,London
+725494705,Standard,2024-07-10,East Midlands
+499380305,Trade,2024-07-11,Northern Ireland
+774725951,Standard,2024-07-11,Wales
+795719275,Standard,2024-07-11,East of England
+137549030,Member,2024-07-14,North East
+152966203,Member,2024-07-14,London
+245401853,Standard,2024-07-14,London
+956761009,Standard,2024-07-14,South East
+970382439,Standard,2024-07-14,South East
+391762108,Standard,2024-07-16,South East
+720648924,Standard,2024-07-16,West Midlands
+866649793,Standard,2024-07-16,West Midlands
+979956790,Member,2024-07-16,West Midlands
+618633160,Member,2024-07-17,North West
+149350827,Member,2024-07-18,Scotland
+607748177,Standard,2024-07-18,London
+313674253,Member,2024-07-19,North West
+338571541,Standard,2024-07-19,South West
+918810071,Trade,2024-07-19,West Midlands
+327051433,Member,2024-07-20,London
+351250509,Member,2024-07-20,North East
+346870425,Standard,2024-07-23,North West
+609246264,Standard,2024-07-23,Wales
+232708897,Standard,2024-07-24,Northern Ireland
+641286496,Standard,2024-07-24,North West
+645266353,Standard,2024-07-24,London
+758051280,Standard,2024-07-24,London
+678753199,Member,2024-07-25,London
+696456205,Standard,2024-07-25,South West
+720985360,Member,2024-07-25,London
+794569293,Standard,2024-07-25,East Midlands
+874449920,Standard,2024-07-25,London
+910652603,Trade,2024-07-25,London
+207764055,Standard,2024-07-26,London
+528464284,Standard,2024-07-26,North West
+273159829,Standard,2024-07-27,Wales
+373774755,Trade,2024-07-27,South East
+424432010,Standard,2024-07-27,North West
+494162814,Member,2024-07-27,South West
+903332582,Standard,2024-07-27,West Midlands
+214380252,Standard,2024-07-29,East of England
+322520904,Member,2024-07-29,North West
+869301514,Member,2024-07-30,East of England
+923558887,Member,2024-07-30,South West
+394952405,Member,2024-07-31,North West
+857986411,Member,2024-07-31,Scotland
+893129378,Standard,2024-08-02,East of England
+470848054,Standard,2024-08-03,East of England
+958417038,Standard,2024-08-03,Yorkshire and the Humber
+174282711,Standard,2024-08-05,Scotland
+299390860,Standard,2024-08-05,London
+407285269,Member,2024-08-05,London
+471454501,Standard,2024-08-06,South East
+489353906,Trade,2024-08-06,North West
+533443869,Member,2024-08-07,South East
+854176491,Member,2024-08-07,South West
+798037896,Standard,2024-08-08,London
+597079847,Member,2024-08-09,East Midlands
+636233755,Member,2024-08-09,South West
+421348964,Standard,2024-08-10,Scotland
+143726237,Standard,2024-08-11,London
+432651017,Standard,2024-08-11,South East
+854417681,Standard,2024-08-11,South West
+976963329,Standard,2024-08-11,South East
+157052611,Standard,2024-08-12,North West
+758588339,Member,2024-08-12,Yorkshire and the Humber
+981373667,Standard,2024-08-12,East Midlands
+133750225,Standard,2024-08-14,South East
+467837101,Standard,2024-08-14,West Midlands
+315631605,Standard,2024-08-16,London
+628823713,Member,2024-08-16,London
+422805242,Member,2024-08-17,North West
+865522925,Trade,2024-08-17,Scotland
+928855917,Standard,2024-08-17,East of England
+502212571,Standard,2024-08-18,West Midlands
+656220802,Standard,2024-08-18,South West
+732592541,Standard,2024-08-18,London
+218475988,Standard,2024-08-19,London
+340568400,Standard,2024-08-20,Yorkshire and the Humber
+391008408,Standard,2024-08-20,London
+429878572,Member,2024-08-20,Wales
+531225431,Standard,2024-08-20,South East
+328862421,Member,2024-08-21,London
+472003753,Standard,2024-08-21,North West
+705632786,Standard,2024-08-21,London
+882319939,Member,2024-08-21,South West
+357708232,Standard,2024-08-22,North West
+472932316,Member,2024-08-22,South West
+788260632,Member,2024-08-22,Yorkshire and the Humber
+848724154,Standard,2024-08-22,South East
+281296446,Standard,2024-08-23,South East
+283647475,Member,2024-08-23,North East
+324295763,Member,2024-08-23,Yorkshire and the Humber
+429857382,Standard,2024-08-23,Scotland
+926409875,Standard,2024-08-23,South East
+223145415,Standard,2024-08-24,East of England
+425771510,Member,2024-08-24,Yorkshire and the Humber
+879455200,Standard,2024-08-24,North West
+974909886,Standard,2024-08-24,South East
+666620132,Standard,2024-08-25,Wales
+751137103,Standard,2024-08-25,South West
+845972093,Standard,2024-08-25,Scotland
+236785162,Standard,2024-08-27,West Midlands
+358286188,Member,2024-08-27,London
+359482265,Member,2024-08-28,London
+819087459,Standard,2024-08-28,London
+850342326,Standard,2024-08-28,East Midlands
+884677754,Standard,2024-08-28,London
+137127651,Standard,2024-08-29,Yorkshire and the Humber
+231924697,Standard,2024-08-30,Yorkshire and the Humber
+424674230,Member,2024-08-30,North East
+589200586,Standard,2024-08-30,East Midlands
+623496300,Standard,2024-08-30,Wales
+547252511,Standard,2024-08-31,London
+296840184,Member,2024-09-01,London
+880479728,Member,2024-09-01,Scotland
+338864810,Member,2024-09-02,Yorkshire and the Humber
+298671991,Standard,2024-09-05,North West
+435217928,Member,2024-09-05,Yorkshire and the Humber
+671127448,Standard,2024-09-05,North West
+103840320,Standard,2024-09-06,East Midlands
+131947805,Standard,2024-09-06,Scotland
+257034620,Standard,2024-09-06,West Midlands
+226837201,Member,2024-09-07,East Midlands
+378237695,Standard,2024-09-07,South East
+543309618,Standard,2024-09-07,North West
+230410045,Standard,2024-09-09,Yorkshire and the Humber
+328329510,Standard,2024-09-09,North West
+528752057,Standard,2024-09-09,London
+662389951,Standard,2024-09-09,London
+886673550,Standard,2024-09-09,London
+983861550,Standard,2024-09-09,South East
+509933390,Standard,2024-09-10,Northern Ireland
+222245577,Member,2024-09-11,South East
+944092796,Member,2024-09-11,London
+513132544,Member,2024-09-12,Scotland
+814040930,Standard,2024-09-12,London
+887071723,Standard,2024-09-12,North West
+366600810,Standard,2024-09-13,North West
+620609271,Standard,2024-09-14,East Midlands
+523203366,Standard,2024-09-16,Yorkshire and the Humber
+641332653,Standard,2024-09-16,South West
+308560723,Standard,2024-09-17,East of England
+438718887,Standard,2024-09-17,South West
+689308592,Trade,2024-09-17,East Midlands
+301829272,Standard,2024-09-18,London
+585756141,Standard,2024-09-18,West Midlands
+623521308,Standard,2024-09-18,London
+410249871,Standard,2024-09-19,South West
+786958560,Standard,2024-09-19,North West
+555834613,Standard,2024-09-20,West Midlands
+716405386,Member,2024-09-20,North West
+796013359,Standard,2024-09-20,South East
+773473280,Member,2024-09-21,Wales
+834007523,Standard,2024-09-22,West Midlands
+838546471,Standard,2024-09-22,London
+856714210,Standard,2024-09-23,North West
+614445482,Member,2024-09-24,West Midlands
+765172380,Standard,2024-09-24,Scotland
+535779555,Standard,2024-09-25,Scotland
+113849349,Standard,2024-09-26,East Midlands
+683467502,Member,2024-09-27,London
+738618920,Standard,2024-09-27,London
+888635371,Standard,2024-09-28,Yorkshire and the Humber
+532858525,Standard,2024-09-29,South East
+665128726,Standard,2024-09-29,North West
+758111381,Member,2024-09-29,Wales
+391289028,Member,2024-09-30,South East
+514581359,Standard,2024-09-30,East Midlands
+164503912,Standard,2024-10-01,North West
+241880536,Standard,2024-10-01,London
+578113386,Standard,2024-10-01,North West
+188892783,Member,2024-10-02,West Midlands
+506014771,Standard,2024-10-02,East Midlands
+187813328,Standard,2024-10-04,Scotland
+322276914,Standard,2024-10-04,South West
+483662285,Standard,2024-10-04,East of England
+883421073,Standard,2024-10-04,London
+470035222,Standard,2024-10-05,London
+579507100,Member,2024-10-05,Scotland
+269467476,Standard,2024-10-06,London
+291027232,Standard,2024-10-06,North West
+663852933,Standard,2024-10-06,South West
+217737473,Standard,2024-10-07,London
+318137145,Standard,2024-10-07,North East
+604457074,Standard,2024-10-07,North East
+777034295,Trade,2024-10-07,Scotland
+141388934,Standard,2024-10-08,East of England
+889367221,Standard,2024-10-08,East Midlands
+935634185,Standard,2024-10-08,London
+801161205,Standard,2024-10-09,London
+716312283,Standard,2024-10-10,East of England
+733649902,Standard,2024-10-10,Scotland
+241677163,Member,2024-10-11,East of England
+320767423,Member,2024-10-11,North West
+337297760,Member,2024-10-11,London
+591591915,Standard,2024-10-11,East of England
+715387622,Member,2024-10-11,London
+740331190,Standard,2024-10-11,South West
+916328815,Standard,2024-10-11,West Midlands
+409006750,Standard,2024-10-12,South East
+484323663,Standard,2024-10-12,London
+900744248,Standard,2024-10-12,South East
+102797612,Standard,2024-10-13,Yorkshire and the Humber
+274616630,Standard,2024-10-13,East Midlands
+381739632,Standard,2024-10-13,South East
+506931892,Standard,2024-10-13,South East
+763815264,Standard,2024-10-15,London
+359633963,Standard,2024-10-16,Yorkshire and the Humber
+956342507,Standard,2024-10-16,London
+395588639,Standard,2024-10-17,London
+880320496,Standard,2024-10-18,Scotland
+889557180,Standard,2024-10-18,London
+159192444,Standard,2024-10-19,London
+210792935,Standard,2024-10-19,London
+381244663,Standard,2024-10-19,West Midlands
+830391078,Standard,2024-10-19,London
+212722649,Standard,2024-10-20,South East
+248471568,Standard,2024-10-20,South East
+926822193,Standard,2024-10-21,South East
+588399936,Standard,2024-10-22,West Midlands
+619277521,Standard,2024-10-23,Scotland
+962359563,Trade,2024-10-23,East Midlands
+231353031,Standard,2024-10-24,East Midlands
+325797455,Trade,2024-10-24,Yorkshire and the Humber
+806885114,Standard,2024-10-24,Scotland
+146751474,Standard,2024-10-26,Wales
+189192163,Standard,2024-10-28,East of England
+463236296,Standard,2024-10-28,South East
+712503119,Member,2024-10-28,London
+130236408,Member,2024-10-29,London
+310225561,Standard,2024-10-29,Scotland
+459723869,Standard,2024-10-29,North East
+900548064,Standard,2024-10-29,South West
+327833133,Standard,2024-10-30,South East
+812107574,Member,2024-10-30,West Midlands
+978047074,Member,2024-10-30,North East
+146834980,Standard,2024-10-31,Wales
+275401214,Member,2024-11-01,West Midlands
+406500322,Standard,2024-11-01,Yorkshire and the Humber
+586031497,Standard,2024-11-01,South East
+607693776,Standard,2024-11-01,Yorkshire and the Humber
+638358248,Standard,2024-11-01,South East
+982615971,Standard,2024-11-01,South East
+144203565,Standard,2024-11-02,London
+282250223,Standard,2024-11-02,South West
+519952762,Member,2024-11-02,North West
+598119160,Standard,2024-11-02,Yorkshire and the Humber
+650657052,Standard,2024-11-02,London
+872893735,Standard,2024-11-03,Yorkshire and the Humber
+891830432,Standard,2024-11-03,South West
+757065744,Member,2024-11-04,Scotland
+151069262,Standard,2024-11-05,Scotland
+438475709,Standard,2024-11-05,North West
+519456037,Standard,2024-11-05,Wales
+575796475,Standard,2024-11-05,South East
+790106215,Standard,2024-11-05,Northern Ireland
+307814580,Member,2024-11-06,North East
+754562164,Standard,2024-11-06,Wales
+990386183,Standard,2024-11-06,North West
+595592615,Standard,2024-11-07,London
+194020108,Standard,2024-11-08,South West
+934546811,Standard,2024-11-08,East of England
+105181189,Standard,2024-11-09,North West
+852984308,Standard,2024-11-09,South East
+870918975,Standard,2024-11-09,West Midlands
+924521738,Standard,2024-11-09,Yorkshire and the Humber
+828153238,Standard,2024-11-10,London
+855880485,Standard,2024-11-10,North West
+119964937,Standard,2024-11-11,Northern Ireland
+514534781,Standard,2024-11-11,East Midlands
+442558595,Standard,2024-11-12,London
+524156864,Standard,2024-11-12,South West
+529414407,Standard,2024-11-12,East Midlands
+818043560,Standard,2024-11-12,London
+348226144,Member,2024-11-13,London
+411581886,Standard,2024-11-13,London
+803317140,Standard,2024-11-13,London
+489581007,Standard,2024-11-14,London
+715728258,Member,2024-11-14,South East
+398830200,Member,2024-11-15,North West
+962359473,Member,2024-11-15,South East
+404709346,Standard,2024-11-16,East Midlands
+855744426,Standard,2024-11-16,South East
+891183436,Standard,2024-11-17,East Midlands
+172024656,Standard,2024-11-18,North West
+768859717,Member,2024-11-19,London
+367221048,Standard,2024-11-20,East of England
+472071717,Standard,2024-11-20,North West
+242379145,Standard,2024-11-21,Wales
+352129832,Standard,2024-11-22,London
+325594616,Standard,2024-11-23,West Midlands
+337537065,Member,2024-11-24,North West
+911496788,Standard,2024-11-24,London
+133704708,Standard,2024-11-25,London
+147954993,Standard,2024-11-25,South West
+168793319,Standard,2024-11-25,Yorkshire and the Humber
+444570320,Standard,2024-11-25,London
+445268032,Standard,2024-11-25,East of England
+149836225,Member,2024-11-26,Scotland
+801729085,Standard,2024-11-26,North West
+222857552,Standard,2024-11-27,North East
+331997646,Standard,2024-11-27,East Midlands
+699542696,Member,2024-11-27,Northern Ireland
+907658207,Member,2024-11-27,North East
+468028963,Standard,2024-11-28,Northern Ireland
+580965236,Standard,2024-11-29,South West
+383564345,Trade,2024-11-30,London
+410746893,Standard,2024-11-30,Scotland
+633294220,Standard,2024-11-30,East Midlands
+665019256,Standard,2024-11-30,South East
+829283784,Standard,2024-11-30,London
+347766985,Standard,2024-12-01,Yorkshire and the Humber
+461655881,Member,2024-12-01,London
+123644909,Member,2024-12-03,South East
+251690328,Standard,2024-12-03,West Midlands
+333677535,Standard,2024-12-03,East of England
+566070455,Standard,2024-12-03,London
+674148429,Standard,2024-12-04,Scotland
+972843751,Member,2024-12-04,East Midlands
+838760786,Standard,2024-12-05,East Midlands
+647833825,Standard,2024-12-06,South East
+906588588,Standard,2024-12-06,Wales
+181004531,Standard,2024-12-07,North West
+458181034,Standard,2024-12-07,London
+676643348,Standard,2024-12-07,Wales
+844492557,Standard,2024-12-07,North West
+580238069,Standard,2024-12-08,South East
+640599538,Standard,2024-12-09,Wales
+764010640,Standard,2024-12-09,South East
+180356737,Member,2024-12-10,South East
+681802774,Standard,2024-12-10,East Midlands
+159855090,Standard,2024-12-11,North West
+820720345,Standard,2024-12-11,London
+151643597,Standard,2024-12-12,Wales
+273837168,Standard,2024-12-12,Scotland
+318323240,Standard,2024-12-12,North East
+430333788,Standard,2024-12-12,London
+715693914,Member,2024-12-12,Yorkshire and the Humber
+940334267,Member,2024-12-12,Scotland
+980742795,Member,2024-12-12,South West
+226668536,Standard,2024-12-13,South East
+951419086,Standard,2024-12-13,London
+533942022,Standard,2024-12-14,North West
+266056857,Standard,2024-12-15,North West
+472234932,Standard,2024-12-15,London
+295963889,Standard,2024-12-16,South East
+757333419,Standard,2024-12-16,East Midlands
+265152265,Trade,2024-12-17,London
+453072665,Standard,2024-12-17,Scotland
+479756080,Standard,2024-12-17,East of England
+635435144,Standard,2024-12-17,South East
+500941405,Standard,2024-12-18,East of England
+529875370,Member,2024-12-18,London
+747811153,Standard,2024-12-18,East of England
+374834620,Member,2024-12-19,East Midlands
+482977668,Standard,2024-12-19,East Midlands
+248211979,Standard,2024-12-20,North East
+664270144,Standard,2024-12-20,London
+708805011,Standard,2024-12-20,North West
+831795835,Standard,2024-12-21,West Midlands
+927116538,Member,2024-12-21,North West
+665314954,Standard,2024-12-23,South East
+728326067,Member,2024-12-23,London
+959680733,Standard,2024-12-23,South West
+355211872,Standard,2024-12-24,North East
+833551923,Standard,2024-12-25,Scotland
+412093834,Standard,2024-12-27,North West
+511326331,Standard,2024-12-27,London
+768007141,Standard,2024-12-27,East of England
+151364034,Standard,2024-12-28,Northern Ireland
+415456371,Standard,2024-12-28,South East
+477557376,Member,2024-12-28,Northern Ireland
+609381408,Trade,2024-12-28,Scotland
+630681526,Standard,2024-12-28,North West
+864864051,Standard,2024-12-28,North West
+899732805,Standard,2024-12-28,Yorkshire and the Humber
+258670539,Standard,2024-12-29,London
+517471069,Standard,2024-12-29,London
+179621921,Standard,2024-12-31,London
+644219673,Standard,2025-01-01,Yorkshire and the Humber
+783899441,Standard,2025-01-01,South West
+811001196,Standard,2025-01-01,South West
+266797344,Trade,2025-01-02,North West
+470796147,Standard,2025-01-02,South East
+974587605,Standard,2025-01-02,Wales
+980423274,Member,2025-01-02,South East
+280326423,Standard,2025-01-03,London
+791103036,Standard,2025-01-03,North West
+838693047,Standard,2025-01-03,South West
+371804108,Standard,2025-01-04,London
+421528975,Standard,2025-01-05,North West
+538705795,Standard,2025-01-05,North East
+583898831,Standard,2025-01-05,Yorkshire and the Humber
+702615116,Standard,2025-01-05,Scotland
+206432734,Standard,2025-01-06,London
+252711263,Standard,2025-01-06,East Midlands
+357887432,Member,2025-01-06,South East
+775262107,Standard,2025-01-07,Yorkshire and the Humber
+824932835,Standard,2025-01-07,North West
+819336615,Standard,2025-01-08,South West
+819496396,Standard,2025-01-08,Wales
+304053357,Standard,2025-01-09,Scotland
+466299814,Standard,2025-01-09,South West
+566214293,Standard,2025-01-09,South West
+482064751,Member,2025-01-10,West Midlands
+609414472,Standard,2025-01-10,North East
+881863567,Standard,2025-01-10,South East
+136176528,Standard,2025-01-11,North West
+528983729,Member,2025-01-11,South East
+570278397,Standard,2025-01-11,West Midlands
+646221660,Standard,2025-01-11,South East
+960977249,Member,2025-01-11,London
+233617571,Standard,2025-01-12,South West
+371550520,Member,2025-01-12,London
+490125524,Standard,2025-01-12,West Midlands
+778986403,Standard,2025-01-12,East Midlands
+114485585,Standard,2025-01-14,North West
+611015463,Member,2025-01-14,London
+107848920,Standard,2025-01-15,London
+210732515,Standard,2025-01-15,North East
+442381794,Standard,2025-01-15,South East
+500382046,Standard,2025-01-15,East Midlands
+675564655,Standard,2025-01-16,West Midlands
+965072382,Standard,2025-01-17,South East
+149349603,Member,2025-01-18,Scotland
+643181551,Trade,2025-01-18,Scotland
+393209701,Standard,2025-01-19,London
+550389638,Standard,2025-01-19,West Midlands
+959248814,Standard,2025-01-19,South East
+730950897,Standard,2025-01-21,Scotland
+732717879,Member,2025-01-21,East of England
+745623585,Member,2025-01-21,East of England
+966627421,Standard,2025-01-21,London
+995672377,Standard,2025-01-21,South East
+637401372,Standard,2025-01-22,London
+765706909,Standard,2025-01-22,North West
+856604552,Standard,2025-01-22,South East
+968012585,Standard,2025-01-22,Scotland
+930894999,Standard,2025-01-23,London
+961046709,Standard,2025-01-23,South East
+438157991,Standard,2025-01-24,London
+601691373,Member,2025-01-24,London
+721200810,Standard,2025-01-24,West Midlands
+779951899,Trade,2025-01-24,Scotland
+358808336,Standard,2025-01-26,North West
+435065717,Standard,2025-01-26,North East
+466544957,Trade,2025-01-26,West Midlands
+545158576,Standard,2025-01-26,South West
+299982134,Standard,2025-01-27,Yorkshire and the Humber
+545654355,Member,2025-01-27,Scotland
+655140476,Standard,2025-01-27,East of England
+687384063,Member,2025-01-27,South East
+275121272,Standard,2025-01-28,Scotland
+344862296,Standard,2025-01-28,North West
+502856933,Standard,2025-01-28,Northern Ireland
+999796343,Member,2025-01-28,London
+159297759,Standard,2025-01-30,South West
+808885162,Member,2025-01-30,Yorkshire and the Humber
+146964199,Standard,2025-01-31,East of England
+112374230,Standard,2025-02-01,South East
+233553880,Standard,2025-02-01,London
+503822203,Standard,2025-02-01,East of England
+687993063,Member,2025-02-01,South West
+269966661,Standard,2025-02-02,London
+181335401,Trade,2025-02-03,South East
+383135588,Standard,2025-02-03,London
+414086779,Standard,2025-02-03,North East
+734494052,Member,2025-02-03,Scotland
+171335663,Member,2025-02-04,East Midlands
+171513323,Standard,2025-02-04,West Midlands
+877381102,Member,2025-02-04,Wales
+986595096,Standard,2025-02-04,South West
+114580597,Member,2025-02-05,Wales
+133668869,Standard,2025-02-05,South West
+560886678,Standard,2025-02-06,South East
+685653605,Standard,2025-02-06,East Midlands
+308312137,Standard,2025-02-07,Northern Ireland
+359653346,Standard,2025-02-07,Scotland
+378363987,Standard,2025-02-07,Wales
+401461480,Member,2025-02-07,Scotland
+417003596,Member,2025-02-07,Yorkshire and the Humber
+213459123,Standard,2025-02-08,West Midlands
+534029572,Standard,2025-02-08,London
+234265575,Standard,2025-02-09,West Midlands
+244331240,Member,2025-02-09,Scotland
+346973265,Standard,2025-02-09,South West
+347743482,Member,2025-02-09,North West
+674872766,Standard,2025-02-11,Scotland
+308003531,Standard,2025-02-12,Scotland
+452753432,Member,2025-02-13,North West
+538385989,Standard,2025-02-13,West Midlands
+102483088,Member,2025-02-14,Scotland
+566237363,Member,2025-02-14,South East
+112374003,Standard,2025-02-15,London
+528671208,Standard,2025-02-15,Yorkshire and the Humber
+995470878,Standard,2025-02-15,East Midlands
+995880207,Standard,2025-02-15,North West
+731017554,Standard,2025-02-16,East of England
+913496203,Standard,2025-02-16,North West
+323815751,Standard,2025-02-17,East of England
+830606040,Standard,2025-02-17,North East
+203912698,Standard,2025-02-18,Scotland
+218835067,Standard,2025-02-19,London
+464939976,Standard,2025-02-19,London
+760543119,Standard,2025-02-19,North East
+834182627,Standard,2025-02-19,East of England
+966104383,Standard,2025-02-19,London
+245148805,Standard,2025-02-20,Wales
+404723533,Standard,2025-02-20,London
+922364310,Standard,2025-02-20,South East
+185040583,Standard,2025-02-21,London
+374208301,Standard,2025-02-21,South West
+902431113,Member,2025-02-21,London
+165248920,Standard,2025-02-22,London
+305455649,Standard,2025-02-22,South East
+436429064,Standard,2025-02-22,London
+504291882,Standard,2025-02-22,London
+576346607,Member,2025-02-22,Scotland
+475351497,Standard,2025-02-23,West Midlands
+360934258,Standard,2025-02-24,East of England
+727930022,Member,2025-02-24,Scotland
+690940508,Standard,2025-02-25,West Midlands
+769313331,Standard,2025-02-25,Northern Ireland
+847627091,Standard,2025-02-26,London
+305930214,Standard,2025-02-27,Yorkshire and the Humber
+129422262,Member,2025-02-28,Scotland
+696930252,Member,2025-02-28,East Midlands
+808909702,Member,2025-02-28,London
+428159563,Standard,2025-03-01,Wales
+472080543,Standard,2025-03-01,West Midlands
+545018149,Standard,2025-03-01,South West
+957818201,Standard,2025-03-01,Scotland
+132064151,Standard,2025-03-02,South West
+319338431,Standard,2025-03-02,South East
+796693391,Standard,2025-03-02,Wales
+821277123,Standard,2025-03-02,Scotland
+946639034,Member,2025-03-02,North West
+207862358,Standard,2025-03-03,South East
+373743367,Standard,2025-03-03,Northern Ireland
+473443762,Standard,2025-03-03,Wales
+802744879,Standard,2025-03-03,London
+108607564,Member,2025-03-04,North East
+444281893,Standard,2025-03-04,London
+869206978,Standard,2025-03-04,South East
+129437403,Member,2025-03-05,South East
+265755236,Member,2025-03-05,London
+635032548,Member,2025-03-05,Yorkshire and the Humber
+946343384,Standard,2025-03-05,South East
+290284629,Member,2025-03-06,North West
+312692004,Standard,2025-03-06,Yorkshire and the Humber
+373398400,Member,2025-03-06,North West
+956291611,Member,2025-03-06,West Midlands
+325366159,Member,2025-03-07,Yorkshire and the Humber
+432861543,Standard,2025-03-08,London
+617261075,Standard,2025-03-08,North West
+631577843,Member,2025-03-08,Yorkshire and the Humber
+786369563,Standard,2025-03-08,Yorkshire and the Humber
+957661915,Member,2025-03-08,Scotland
+553708841,Standard,2025-03-09,West Midlands
+900362985,Standard,2025-03-09,London
+461547154,Standard,2025-03-10,South East
+495712385,Standard,2025-03-10,Scotland
+375038559,Standard,2025-03-11,North East
+773295429,Standard,2025-03-11,Scotland
+352846727,Member,2025-03-12,Scotland
+689563502,Member,2025-03-12,Yorkshire and the Humber
+992958126,Standard,2025-03-12,Scotland
+747871002,Member,2025-03-13,South West
+870705351,Standard,2025-03-13,Yorkshire and the Humber
+498900183,Standard,2025-03-14,Northern Ireland
+537347690,Member,2025-03-14,North West
+425455911,Standard,2025-03-15,North East
+828874304,Standard,2025-03-15,South West
+121640670,Standard,2025-03-17,West Midlands
+820876189,Standard,2025-03-17,South East
+363026106,Standard,2025-03-18,Northern Ireland
+448671935,Standard,2025-03-18,London
+519635777,Standard,2025-03-18,South West
+271077689,Member,2025-03-19,South West
+712928824,Standard,2025-03-19,London
+893036399,Member,2025-03-19,East of England
+328963315,Standard,2025-03-20,East of England
+488105492,Standard,2025-03-20,North East
+508782889,Standard,2025-03-20,North West
+654660612,Standard,2025-03-20,London
+785970456,Standard,2025-03-20,North West
+886786709,Member,2025-03-20,London
+141860645,Member,2025-03-21,Wales
+352101123,Standard,2025-03-21,Yorkshire and the Humber
+428351497,Standard,2025-03-21,Scotland
+628204078,Trade,2025-03-21,North East
+822324667,Standard,2025-03-21,South East
+210203868,Standard,2025-03-22,South West
+497407054,Member,2025-03-22,South West
+303445956,Standard,2025-03-23,North West
+480372356,Standard,2025-03-23,East Midlands
+923276256,Standard,2025-03-23,North West
+937115779,Standard,2025-03-23,North West
+955792187,Standard,2025-03-23,London
+482694188,Standard,2025-03-24,East Midlands
+773350890,Standard,2025-03-24,Yorkshire and the Humber
+197961551,Member,2025-03-25,East Midlands
+249543451,Member,2025-03-25,London
+447560311,Standard,2025-03-25,Northern Ireland
+781425262,Standard,2025-03-25,East Midlands
+234870744,Member,2025-03-26,South East
+417670262,Standard,2025-03-26,South East
+928528497,Trade,2025-03-26,Yorkshire and the Humber
+232653200,Member,2025-03-27,East of England
+244572914,Member,2025-03-27,Wales
+405738473,Standard,2025-03-27,Wales
+486901373,Standard,2025-03-27,South East
+629491977,Standard,2025-03-27,North East
+855430580,Standard,2025-03-27,South East
+362036866,Standard,2025-03-28,East of England
+575607465,Standard,2025-03-28,South West
+591385860,Standard,2025-03-28,London
+352123967,Member,2025-03-29,East Midlands
+567249719,Standard,2025-03-29,West Midlands
+591774024,Member,2025-03-29,North West
+669565680,Standard,2025-03-30,South West
+194578421,Trade,2025-03-31,East Midlands
+302057444,Standard,2025-03-31,Scotland
+442699990,Standard,2025-03-31,South West
+498189707,Standard,2025-03-31,East of England
+445636085,Member,2025-04-01,East of England
+454738443,Standard,2025-04-01,South West
+600019603,Standard,2025-04-01,Yorkshire and the Humber
+832920493,Member,2025-04-02,South East
+722376693,Member,2025-04-03,London
+358704910,Member,2025-04-04,Scotland
+959428023,Member,2025-04-04,Scotland
+174216591,Standard,2025-04-05,East Midlands
+818042355,Standard,2025-04-05,London
+354600022,Standard,2025-04-06,South East
+411602893,Standard,2025-04-06,London
+572835353,Standard,2025-04-06,East Midlands
+680555651,Standard,2025-04-06,North West
+807109734,Standard,2025-04-06,East of England
+499871669,Standard,2025-04-08,London
+668104160,Trade,2025-04-09,West Midlands
+999085224,Member,2025-04-09,North West
+333493346,Member,2025-04-10,South West
+518013140,Standard,2025-04-10,East Midlands
+267277631,Member,2025-04-11,London
+351559154,Member,2025-04-11,London
+743061820,Standard,2025-04-11,Yorkshire and the Humber
+956193890,Standard,2025-04-11,London
+907372857,Standard,2025-04-12,London
+992415209,Member,2025-04-12,Wales
+133928676,Standard,2025-04-13,East of England
+322437403,Standard,2025-04-13,London
+549470151,Member,2025-04-13,West Midlands
+709469170,Standard,2025-04-13,Yorkshire and the Humber
+718841873,Standard,2025-04-13,Yorkshire and the Humber
+879992634,Trade,2025-04-13,Wales
+151767298,Member,2025-04-14,South East
+200479490,Trade,2025-04-14,Yorkshire and the Humber
+361184533,Standard,2025-04-14,North West
+637508819,Standard,2025-04-14,South East
+904644270,Standard,2025-04-14,East of England
+898075823,Member,2025-04-16,South West
+401606949,Standard,2025-04-17,East Midlands
+598908560,Standard,2025-04-17,Yorkshire and the Humber
+952786544,Member,2025-04-17,North West
+588083152,Standard,2025-04-18,Scotland
+240562785,Member,2025-04-19,London
+108392518,Standard,2025-04-20,North East
+151970144,Standard,2025-04-20,North West
+818897003,Member,2025-04-20,East of England
+107505667,Standard,2025-04-21,London
+313358155,Standard,2025-04-21,West Midlands
+521900250,Member,2025-04-21,South East
+545720420,Standard,2025-04-21,East Midlands
+851415584,Standard,2025-04-21,Wales
+342944538,Standard,2025-04-22,South East
+324975345,Standard,2025-04-23,South East
+691418490,Standard,2025-04-23,Wales
+327024311,Standard,2025-04-24,South West
+381315682,Standard,2025-04-24,East of England
+581814130,Standard,2025-04-24,North East
+128683944,Member,2025-04-25,Yorkshire and the Humber
+241654511,Standard,2025-04-25,West Midlands
+552324570,Standard,2025-04-25,South East
+564584664,Standard,2025-04-26,London
+693929674,Member,2025-04-27,North East
+133873806,Standard,2025-04-28,Yorkshire and the Humber
+316512914,Standard,2025-04-28,Yorkshire and the Humber
+321109838,Standard,2025-04-28,East Midlands
+781877056,Standard,2025-04-28,Scotland
+989706630,Standard,2025-04-28,North West
+503810941,Standard,2025-04-30,North West
+514156913,Standard,2025-04-30,South West
+995749966,Standard,2025-04-30,South East
+557130616,Standard,2025-05-01,Wales
+872291394,Standard,2025-05-01,London
+112386360,Standard,2025-05-02,South West
+227026647,Standard,2025-05-03,Scotland
+468150175,Standard,2025-05-03,North West
+489432609,Member,2025-05-03,London
+629661023,Member,2025-05-03,Scotland
+747030948,Standard,2025-05-03,London
+854190793,Standard,2025-05-03,East Midlands
+927372611,Member,2025-05-03,Northern Ireland
+184812382,Standard,2025-05-04,East of England
+272240579,Standard,2025-05-04,Wales
+567602179,Standard,2025-05-04,London
+118154699,Standard,2025-05-05,East of England
+138494721,Standard,2025-05-05,Northern Ireland
+308525075,Standard,2025-05-05,West Midlands
+616276019,Standard,2025-05-05,Yorkshire and the Humber
+656528868,Member,2025-05-05,Scotland
+682784172,Member,2025-05-05,Yorkshire and the Humber
+742814333,Trade,2025-05-05,North West
+632312223,Standard,2025-05-06,London
+741431654,Standard,2025-05-06,East of England
+389080240,Standard,2025-05-07,Northern Ireland
+688738680,Standard,2025-05-08,East of England
+701474733,Standard,2025-05-08,North West
+446971509,Standard,2025-05-09,London
+480856190,Standard,2025-05-09,East of England
+344592833,Standard,2025-05-10,Scotland
+774034873,Standard,2025-05-10,Yorkshire and the Humber
+405681450,Trade,2025-05-11,London
+482306187,Standard,2025-05-11,East of England
+778920457,Standard,2025-05-11,Scotland
+454725170,Standard,2025-05-12,London
+528530111,Member,2025-05-12,West Midlands
+608858190,Standard,2025-05-12,London
+807311453,Member,2025-05-12,Scotland
+690839848,Standard,2025-05-13,South East
+921439991,Standard,2025-05-13,South West
+267260723,Standard,2025-05-14,South West
+427383992,Member,2025-05-14,East Midlands
+715611320,Standard,2025-05-14,South East
+961506421,Standard,2025-05-14,Wales
+362868394,Member,2025-05-15,East of England
+516965688,Standard,2025-05-15,North West
+803424889,Standard,2025-05-16,East of England
+597542157,Member,2025-05-17,Yorkshire and the Humber
+655954232,Member,2025-05-17,Yorkshire and the Humber
+682535204,Standard,2025-05-17,West Midlands
+687913135,Standard,2025-05-17,South East
+727251970,Standard,2025-05-17,North West
+266792488,Trade,2025-05-18,South West
+965384837,Standard,2025-05-18,South West
+273135368,Standard,2025-05-19,Scotland
+808822049,Member,2025-05-19,North West
+424752508,Standard,2025-05-20,West Midlands
+478257007,Standard,2025-05-20,East of England
+393629589,Standard,2025-05-21,Scotland
+700672621,Member,2025-05-21,Scotland
+880243377,Standard,2025-05-21,London
+208011122,Standard,2025-05-22,South East
+914219711,Standard,2025-05-22,South East
+969051012,Standard,2025-05-22,Northern Ireland
+200597534,Member,2025-05-23,West Midlands
+949229641,Member,2025-05-23,London
+348760189,Standard,2025-05-24,North West
+856379103,Standard,2025-05-24,South East
+285377143,Standard,2025-05-25,London
+587105161,Standard,2025-05-25,South East
+697080361,Standard,2025-05-25,North West
+737274322,Standard,2025-05-25,North West
+805755959,Standard,2025-05-25,North West
+926124908,Standard,2025-05-25,North West
+225949018,Standard,2025-05-26,South East
+262404293,Member,2025-05-26,Yorkshire and the Humber
+595547915,Standard,2025-05-27,North West
+433923384,Standard,2025-05-28,Wales
+436487967,Member,2025-05-28,London
+490334063,Standard,2025-05-28,London
+694516952,Member,2025-05-28,Wales
+220919840,Trade,2025-05-29,East Midlands
+270082004,Standard,2025-05-29,North West
+866639522,Standard,2025-05-29,Wales
+344065895,Standard,2025-05-30,London
+317535182,Standard,2025-05-31,North West
+332033550,Standard,2025-06-01,South West
+336033415,Member,2025-06-01,North West
+413772464,Member,2025-06-01,Yorkshire and the Humber
+467561851,Standard,2025-06-01,South East
+564930764,Standard,2025-06-01,East of England
+736652193,Standard,2025-06-01,Yorkshire and the Humber
+259107891,Standard,2025-06-02,East of England
+727918517,Standard,2025-06-02,North West
+744808066,Standard,2025-06-02,East Midlands
+912557035,Standard,2025-06-02,Yorkshire and the Humber
+487759435,Standard,2025-06-03,East Midlands
+795266668,Member,2025-06-03,London
+253634242,Member,2025-06-04,London
+392601370,Standard,2025-06-04,South West
+742643923,Standard,2025-06-04,Scotland
+655838330,Standard,2025-06-05,South East
+725095961,Standard,2025-06-05,South East
+926797162,Standard,2025-06-05,North West
+215639801,Member,2025-06-06,London
+419682834,Standard,2025-06-07,London
+643527536,Standard,2025-06-08,West Midlands
+772040869,Standard,2025-06-08,East of England
+887859683,Standard,2025-06-08,South West
+476001106,Trade,2025-06-09,Northern Ireland
+509814766,Standard,2025-06-09,West Midlands
+489855459,Trade,2025-06-10,London
+127309608,Standard,2025-06-11,East Midlands
+189081098,Member,2025-06-11,Northern Ireland
+420811097,Standard,2025-06-11,West Midlands
+595906385,Standard,2025-06-11,Northern Ireland
+383867169,Standard,2025-06-12,London
+407916271,Member,2025-06-12,South West
+626215071,Member,2025-06-12,Yorkshire and the Humber
+435697275,Standard,2025-06-13,South West
+640745777,Standard,2025-06-13,East of England
+637374800,Trade,2025-06-14,North West
+822061662,Standard,2025-06-14,South East
+961039544,Standard,2025-06-14,North West
+135298754,Standard,2025-06-15,South East
+179642945,Standard,2025-06-15,London
+596492059,Member,2025-06-15,Yorkshire and the Humber
+691875015,Standard,2025-06-16,South West
+898036015,Member,2025-06-16,South East
+933376324,Standard,2025-06-16,North West
+250656891,Standard,2025-06-17,London
+298259525,Standard,2025-06-18,South East
+544252306,Standard,2025-06-18,West Midlands
+774825561,Member,2025-06-18,West Midlands
+793524913,Standard,2025-06-18,Scotland
+828455017,Standard,2025-06-18,South East
+830238454,Standard,2025-06-18,Northern Ireland
+287891281,Standard,2025-06-19,West Midlands
+852241687,Standard,2025-06-19,London
+117141746,Standard,2025-06-21,North West
+177278363,Standard,2025-06-21,West Midlands
+488645571,Member,2025-06-21,East of England
+530247591,Standard,2025-06-21,North West
+253601864,Member,2025-06-23,London
+277245643,Standard,2025-06-23,North West
+301151616,Member,2025-06-23,Northern Ireland
+349477994,Standard,2025-06-23,South East
+353941182,Standard,2025-06-23,Scotland
+165601973,Standard,2025-06-24,Yorkshire and the Humber
+421812963,Standard,2025-06-24,Yorkshire and the Humber
+908383114,Trade,2025-06-24,East of England
+428966507,Standard,2025-06-25,South East
+806272398,Standard,2025-06-25,Scotland
+131611091,Standard,2025-06-26,East Midlands
+197455360,Standard,2025-06-26,South East
+706414697,Standard,2025-06-27,East of England
+830302857,Standard,2025-06-27,East of England
+919706997,Standard,2025-06-27,London
+773878431,Standard,2025-06-28,West Midlands
+956662377,Member,2025-06-28,North West
+316435962,Standard,2025-06-29,East of England
+330086782,Trade,2025-06-29,East of England
+572876131,Standard,2025-06-29,Yorkshire and the Humber
+109735216,Standard,2025-06-30,London
+142806465,Member,2025-06-30,South West
+501406218,Standard,2025-06-30,South East
+778072481,Standard,2025-06-30,South West
+837666939,Standard,2025-06-30,South East
+936428328,Standard,2025-06-30,London
+394130437,Standard,2025-07-01,West Midlands
+799645323,Standard,2025-07-01,East Midlands
+469563654,Standard,2025-07-02,North West
+517894216,Standard,2025-07-02,Scotland
+532406907,Standard,2025-07-02,North West
+564873210,Standard,2025-07-02,London
+162216150,Standard,2025-07-03,West Midlands
+601046978,Standard,2025-07-04,South East
+791503154,Standard,2025-07-04,North West
+946370669,Standard,2025-07-04,East of England
+783268783,Member,2025-07-05,South East
+804958838,Standard,2025-07-05,North West
+192331825,Standard,2025-07-06,London
+415004392,Standard,2025-07-06,Wales
+651007226,Member,2025-07-06,Yorkshire and the Humber
+880346114,Standard,2025-07-06,East of England
+945923135,Standard,2025-07-06,South East
+659570754,Standard,2025-07-07,Scotland
+879842539,Standard,2025-07-07,Yorkshire and the Humber
+144507033,Standard,2025-07-08,West Midlands
+359876122,Standard,2025-07-09,Northern Ireland
+708299495,Member,2025-07-09,South East
+772731999,Standard,2025-07-09,London
+898909111,Standard,2025-07-09,North West
+932140418,Member,2025-07-09,North East
+185509360,Standard,2025-07-10,East of England
+473006056,Standard,2025-07-10,South West
+486996742,Standard,2025-07-10,London
+799429941,Standard,2025-07-10,North East
+934369461,Standard,2025-07-10,North West
+163639071,Standard,2025-07-11,London
+170273817,Standard,2025-07-11,South East
+264688643,Trade,2025-07-11,London
+507176098,Member,2025-07-11,East Midlands
+420686087,Standard,2025-07-13,London
+291917608,Standard,2025-07-14,West Midlands
+308276019,Standard,2025-07-14,Wales
+790009133,Standard,2025-07-14,London
+871951362,Member,2025-07-14,London
+926989495,Standard,2025-07-14,North West
+327946869,Member,2025-07-15,West Midlands
+990257329,Standard,2025-07-15,South East
+264331886,Member,2025-07-16,North East
+412757484,Standard,2025-07-16,London
+627977793,Standard,2025-07-16,South East
+126212821,Standard,2025-07-17,West Midlands
+547700215,Member,2025-07-17,Northern Ireland
+486625671,Member,2025-07-18,South East
+107292786,Standard,2025-07-19,Northern Ireland
+459067464,Standard,2025-07-19,North West
+352191972,Standard,2025-07-20,Wales
+733339785,Standard,2025-07-20,South East
+467874894,Standard,2025-07-21,Yorkshire and the Humber
+725928215,Member,2025-07-21,Scotland
+887560343,Member,2025-07-21,Scotland
+212254668,Standard,2025-07-22,West Midlands
+355857948,Standard,2025-07-22,East of England
+641340140,Standard,2025-07-22,Scotland
+741101078,Standard,2025-07-22,South West
+860218193,Standard,2025-07-22,North West
+893334542,Standard,2025-07-22,Wales
+265518297,Member,2025-07-23,London
+582867846,Standard,2025-07-23,East of England
+803173966,Standard,2025-07-23,South East
+190687493,Standard,2025-07-24,London
+537960661,Standard,2025-07-24,Scotland
+487244746,Standard,2025-07-25,Yorkshire and the Humber
+278752348,Standard,2025-07-27,West Midlands
+463430326,Trade,2025-07-27,South East
+563175836,Standard,2025-07-27,London
+758098959,Standard,2025-07-27,London
+491751624,Member,2025-07-28,Scotland
+679921215,Standard,2025-07-28,East Midlands
+705050362,Standard,2025-07-28,London
+764221014,Standard,2025-07-28,London
+893971441,Standard,2025-07-28,London
+420260547,Standard,2025-07-29,London
+879177942,Standard,2025-07-29,East of England
+880144721,Standard,2025-07-29,East of England
+971598334,Standard,2025-07-29,London
+363836900,Member,2025-07-30,South East
+392548744,Standard,2025-07-30,London
+581207292,Standard,2025-07-30,South West
+665555055,Standard,2025-07-30,North West
+759787134,Standard,2025-07-30,Yorkshire and the Humber
+826471505,Standard,2025-08-01,Yorkshire and the Humber
+866044626,Standard,2025-08-01,Scotland
+462865801,Standard,2025-08-02,South West
+561340332,Standard,2025-08-02,Yorkshire and the Humber
+767240607,Member,2025-08-02,South East
+917013846,Member,2025-08-02,London
+132146995,Member,2025-08-03,London
+691898219,Standard,2025-08-03,South West
+249325015,Standard,2025-08-04,East of England
+435724534,Member,2025-08-04,London
+644815122,Member,2025-08-04,East Midlands
+753248210,Standard,2025-08-04,Yorkshire and the Humber
+829750393,Member,2025-08-05,North West
+159433147,Member,2025-08-06,Yorkshire and the Humber
+165990190,Standard,2025-08-06,London
+223035249,Standard,2025-08-06,North West
+878725995,Standard,2025-08-06,London
+979671241,Standard,2025-08-06,Yorkshire and the Humber
+164999193,Standard,2025-08-07,North West
+140816954,Standard,2025-08-08,Yorkshire and the Humber
+259153981,Standard,2025-08-08,South West
+694608474,Standard,2025-08-08,South East
+483244279,Standard,2025-08-09,South East
+680443097,Standard,2025-08-09,London
+751417490,Standard,2025-08-09,South East
+777500227,Member,2025-08-09,London
+905450309,Standard,2025-08-09,Northern Ireland
+963348278,Standard,2025-08-09,South East
+103112566,Standard,2025-08-10,West Midlands
+317725038,Standard,2025-08-10,London
+430170214,Standard,2025-08-10,Yorkshire and the Humber
+734403182,Standard,2025-08-10,South East
+735628709,Member,2025-08-10,West Midlands
+821932034,Member,2025-08-10,North West
+823237803,Standard,2025-08-10,Scotland
+994668334,Trade,2025-08-10,West Midlands
+128230743,Standard,2025-08-11,Wales
+155877614,Member,2025-08-11,West Midlands
+158981171,Standard,2025-08-11,East Midlands
+212205808,Standard,2025-08-11,London
+408422317,Standard,2025-08-11,South West
+551372879,Member,2025-08-11,Wales
+785108001,Standard,2025-08-11,North West
+168075619,Standard,2025-08-12,West Midlands
+372220826,Standard,2025-08-12,London
+775653708,Standard,2025-08-12,West Midlands
+903959816,Standard,2025-08-13,London
+311933669,Standard,2025-08-15,Yorkshire and the Humber
+364766440,Member,2025-08-15,South East
+925101365,Standard,2025-08-15,North West
+134194298,Standard,2025-08-16,Yorkshire and the Humber
+347888726,Member,2025-08-16,South East
+374958638,Standard,2025-08-16,North East
+447935726,Member,2025-08-17,Scotland
+107566953,Standard,2025-08-18,South East
+240614906,Standard,2025-08-18,London
+736614118,Member,2025-08-18,East Midlands
+927016133,Standard,2025-08-19,East of England
+173276256,Standard,2025-08-20,North East
+183063615,Standard,2025-08-20,South East
+436698236,Standard,2025-08-20,South East
+658024400,Standard,2025-08-20,London
+698942904,Standard,2025-08-20,North West
+775977415,Standard,2025-08-20,South East
+379911248,Member,2025-08-21,North West
+442488771,Standard,2025-08-21,South East
+512435725,Standard,2025-08-21,Wales
+632076429,Standard,2025-08-21,South East
+246108156,Standard,2025-08-22,London
+475911104,Standard,2025-08-22,Yorkshire and the Humber
+629535283,Trade,2025-08-22,London
+699288257,Member,2025-08-22,North West
+686758269,Standard,2025-08-23,South East
+737078313,Standard,2025-08-23,London
+580260556,Standard,2025-08-25,London
+601307750,Standard,2025-08-25,Yorkshire and the Humber
+248183227,Member,2025-08-26,South East
+250508597,Member,2025-08-26,London
+361296360,Standard,2025-08-26,Yorkshire and the Humber
+572860768,Standard,2025-08-26,London
+744672935,Standard,2025-08-26,East of England
+239267099,Member,2025-08-28,Scotland
+327712356,Standard,2025-08-29,Yorkshire and the Humber
+600614203,Standard,2025-08-29,Scotland
+494732902,Standard,2025-08-30,Yorkshire and the Humber
+962011381,Standard,2025-08-30,West Midlands
+153963591,Standard,2025-09-01,London
+526121482,Standard,2025-09-01,Wales
+552571461,Member,2025-09-01,South East
+955229713,Standard,2025-09-02,South East
+597946666,Trade,2025-09-03,North West
+974333787,Member,2025-09-03,West Midlands
+377754036,Member,2025-09-04,Yorkshire and the Humber
+576989179,Standard,2025-09-04,North West
+999577114,Standard,2025-09-04,South West
+541350090,Standard,2025-09-05,East of England
+132806934,Standard,2025-09-06,South East
+189250705,Standard,2025-09-06,South East
+348497045,Member,2025-09-06,East Midlands
+361640379,Standard,2025-09-06,West Midlands
+684665743,Standard,2025-09-06,West Midlands
+688383833,Standard,2025-09-06,South East
+269345704,Standard,2025-09-07,Yorkshire and the Humber
+353531272,Standard,2025-09-07,East Midlands
+428633665,Standard,2025-09-08,North West
+204267553,Standard,2025-09-09,South East
+334552962,Standard,2025-09-09,London
+389289285,Standard,2025-09-09,North West
+648894894,Standard,2025-09-09,East of England
+113661048,Standard,2025-09-10,West Midlands
+472275339,Standard,2025-09-10,London
+517496465,Standard,2025-09-10,London
+578618744,Standard,2025-09-10,London
+683203514,Standard,2025-09-10,North West
+984859277,Member,2025-09-10,West Midlands
+199847941,Standard,2025-09-11,East Midlands
+469412855,Standard,2025-09-11,Wales
+465482122,Trade,2025-09-12,Yorkshire and the Humber
+604856144,Member,2025-09-12,North West
+667327708,Member,2025-09-12,North West
+685836790,Standard,2025-09-12,South West
+410580909,Member,2025-09-13,South East
+749300892,Standard,2025-09-13,East Midlands
+962830231,Standard,2025-09-13,North West
+329334251,Standard,2025-09-14,Yorkshire and the Humber
+389394304,Standard,2025-09-16,West Midlands
+597640473,Standard,2025-09-16,East Midlands
+839010577,Member,2025-09-16,London
+451330704,Standard,2025-09-17,Yorkshire and the Humber
+725278264,Standard,2025-09-17,London
+811198033,Member,2025-09-17,North West
+135247849,Standard,2025-09-18,London
+432112512,Standard,2025-09-18,South East
+472368481,Standard,2025-09-18,Northern Ireland
+868704231,Standard,2025-09-18,London
+944280808,Member,2025-09-18,North East
+295516143,Trade,2025-09-19,London
+391043940,Standard,2025-09-19,West Midlands
+454871173,Member,2025-09-19,Northern Ireland
+764863607,Member,2025-09-19,Wales
+767017474,Standard,2025-09-19,South East
+179102265,Standard,2025-09-20,South East
+371799319,Standard,2025-09-20,Northern Ireland
+536361738,Standard,2025-09-20,London
+598490404,Member,2025-09-20,Yorkshire and the Humber
+576478805,Standard,2025-09-21,Scotland
+235998955,Standard,2025-09-22,South East
+241299415,Member,2025-09-22,East of England
+973537702,Trade,2025-09-22,East Midlands
+398036290,Standard,2025-09-23,South West
+623422921,Member,2025-09-23,Scotland
+675720336,Standard,2025-09-23,North West
+508089272,Standard,2025-09-24,Yorkshire and the Humber
+825964027,Standard,2025-09-24,Northern Ireland
+250059366,Standard,2025-09-25,Yorkshire and the Humber
+781966895,Standard,2025-09-25,South East
+853219781,Standard,2025-09-25,Yorkshire and the Humber
+331569592,Standard,2025-09-26,London
+655378616,Standard,2025-09-26,South West
+165668092,Standard,2025-09-27,Scotland
+192533846,Standard,2025-09-27,North West
+599149124,Standard,2025-09-27,West Midlands
+743248101,Standard,2025-09-27,South West
+751166630,Standard,2025-09-27,London
+501018442,Standard,2025-09-28,West Midlands
+790008234,Standard,2025-09-30,Yorkshire and the Humber
+221033884,Standard,2025-10-02,South East
+873907130,Standard,2025-10-02,Scotland
+923764620,Standard,2025-10-02,Yorkshire and the Humber
+927598102,Member,2025-10-02,Wales
+521584483,Standard,2025-10-05,Wales
+668205182,Standard,2025-10-05,Wales
+153482850,Standard,2025-10-06,Scotland
+473161143,Standard,2025-10-06,Scotland
+683540687,Standard,2025-10-07,London
+732466625,Standard,2025-10-07,South West
+797717990,Standard,2025-10-07,London
+273311159,Standard,2025-10-08,North East
+501735336,Member,2025-10-08,London
+564090567,Standard,2025-10-08,East Midlands
+733458165,Member,2025-10-08,London
+935221114,Standard,2025-10-08,South East
+843620913,Standard,2025-10-09,Yorkshire and the Humber
+241012225,Standard,2025-10-10,East of England
+543423038,Standard,2025-10-10,London
+646062889,Member,2025-10-10,London
+359357804,Standard,2025-10-11,London
+458680269,Standard,2025-10-11,East of England
+230168568,Member,2025-10-13,London
+354191772,Standard,2025-10-13,South East
+490357023,Member,2025-10-13,South West
+863762619,Standard,2025-10-13,East of England
+874451332,Standard,2025-10-13,London
+223459963,Standard,2025-10-14,West Midlands
+446552426,Standard,2025-10-14,London
+728055036,Standard,2025-10-14,South East
+107224677,Member,2025-10-15,Scotland
+423944802,Member,2025-10-15,Wales
+431477073,Standard,2025-10-15,North West
+546900874,Standard,2025-10-15,West Midlands
+611082596,Standard,2025-10-15,West Midlands
+807905857,Standard,2025-10-15,London
+965346103,Standard,2025-10-15,West Midlands
+276595053,Standard,2025-10-16,North East
+107609624,Standard,2025-10-17,Wales
+472909184,Standard,2025-10-17,Yorkshire and the Humber
+868924824,Standard,2025-10-17,South East
+246280967,Member,2025-10-18,East Midlands
+786360007,Standard,2025-10-18,London
+107101776,Standard,2025-10-19,Wales
+796600807,Standard,2025-10-19,East Midlands
+131058823,Standard,2025-10-20,Yorkshire and the Humber
+825909828,Standard,2025-10-20,Scotland
+663362021,Standard,2025-10-21,North West
+733819068,Member,2025-10-21,London
+760797376,Standard,2025-10-21,South East
+262550937,Standard,2025-10-23,South West
+282267951,Member,2025-10-23,North West
+467331797,Standard,2025-10-23,North East
+753833018,Standard,2025-10-23,Yorkshire and the Humber
+174993558,Member,2025-10-24,North West
+279493900,Standard,2025-10-24,London
+539431133,Member,2025-10-24,North West
+305162063,Standard,2025-10-25,South East
+863897324,Standard,2025-10-25,Wales
+134533264,Standard,2025-10-26,Yorkshire and the Humber
+213719861,Standard,2025-10-26,Yorkshire and the Humber
+399161260,Standard,2025-10-26,Yorkshire and the Humber
+440443190,Standard,2025-10-26,London
+517854696,Standard,2025-10-26,East Midlands
+817615898,Standard,2025-10-26,South West
+143328695,Member,2025-10-27,London
+562251669,Trade,2025-10-28,West Midlands
+943848390,Member,2025-10-28,Northern Ireland
+139840404,Standard,2025-10-29,East Midlands
+275449556,Standard,2025-10-30,London
+550482468,Member,2025-10-30,South East
+837844915,Member,2025-10-30,East of England
+920676083,Standard,2025-10-30,London
+146719046,Standard,2025-10-31,London
+595171099,Standard,2025-10-31,Wales
+717445443,Standard,2025-10-31,North West
+301570219,Member,2025-11-01,West Midlands
+523096260,Standard,2025-11-01,West Midlands
+465819779,Standard,2025-11-02,Scotland
+484496608,Trade,2025-11-02,London
+671254944,Standard,2025-11-02,London
+787697681,Standard,2025-11-02,South East
+103692768,Member,2025-11-03,South East
+554682611,Standard,2025-11-03,London
+564648881,Standard,2025-11-03,Yorkshire and the Humber
+702545358,Standard,2025-11-03,Yorkshire and the Humber
+201469667,Standard,2025-11-04,London
+365142462,Standard,2025-11-04,Yorkshire and the Humber
+825630556,Member,2025-11-04,East of England
+593008791,Standard,2025-11-05,Northern Ireland
+642370007,Standard,2025-11-05,West Midlands
+303680203,Standard,2025-11-06,London
+650019733,Member,2025-11-06,London
+949482118,Standard,2025-11-06,London
+639230145,Standard,2025-11-07,Scotland
+197312123,Standard,2025-11-08,West Midlands
+664660956,Standard,2025-11-10,South East
+974916282,Standard,2025-11-10,London
+364596061,Member,2025-11-11,East of England
+995172955,Member,2025-11-11,Northern Ireland
+394684971,Member,2025-11-12,East Midlands
+588304668,Standard,2025-11-12,South East
+352665274,Standard,2025-11-13,East of England
+565539952,Standard,2025-11-13,North East
+952503824,Member,2025-11-13,South East
+639014574,Standard,2025-11-14,London
+320098814,Standard,2025-11-15,East of England
+474507072,Standard,2025-11-15,South East
+133598472,Standard,2025-11-16,West Midlands
+245188452,Standard,2025-11-16,North West
+635199803,Trade,2025-11-17,West Midlands
+834017412,Standard,2025-11-17,East of England
+162121490,Standard,2025-11-18,West Midlands
+237106033,Standard,2025-11-18,East of England
+401587458,Standard,2025-11-18,London
+971266685,Member,2025-11-19,East Midlands
+184583465,Member,2025-11-20,London
+279244923,Standard,2025-11-20,West Midlands
+316932923,Standard,2025-11-21,London
+458892624,Standard,2025-11-21,Yorkshire and the Humber
+517820790,Standard,2025-11-21,London
+884442522,Standard,2025-11-22,Scotland
+127757702,Standard,2025-11-23,London
+170650552,Standard,2025-11-23,London
+410846942,Member,2025-11-23,Yorkshire and the Humber
+463749624,Standard,2025-11-23,Wales
+503278891,Standard,2025-11-23,East Midlands
+551782651,Member,2025-11-23,South West
+967289616,Standard,2025-11-23,East Midlands
+376620102,Standard,2025-11-24,Northern Ireland
+743934645,Member,2025-11-24,East Midlands
+799645754,Standard,2025-11-24,London
+934480980,Standard,2025-11-24,South West
+138126997,Member,2025-11-25,South East
+205126963,Standard,2025-11-25,North West
+470879218,Member,2025-11-25,East Midlands
+702856491,Standard,2025-11-25,London
+903853112,Member,2025-11-25,Wales
+328681440,Standard,2025-11-26,Yorkshire and the Humber
+471658114,Standard,2025-11-26,Wales
+741291656,Standard,2025-11-26,West Midlands
+559192759,Standard,2025-11-27,London
+583103147,Standard,2025-11-27,London
+746551548,Standard,2025-11-27,Northern Ireland
+610098256,Standard,2025-11-28,East Midlands
+890683801,Member,2025-11-28,Northern Ireland
+295315885,Standard,2025-11-29,Scotland
+370899832,Standard,2025-11-29,North West
+596750771,Standard,2025-11-29,North East
+625286994,Member,2025-11-29,London
+903336787,Standard,2025-11-29,Yorkshire and the Humber
+232481912,Standard,2025-11-30,South East
+892080763,Standard,2025-11-30,London
+229873948,Standard,2025-12-01,South West
+430955754,Standard,2025-12-01,East Midlands
+715423097,Member,2025-12-01,South East
+214623261,Member,2025-12-02,South East
+767227328,Standard,2025-12-02,East Midlands
+763684219,Standard,2025-12-03,London
+779567121,Standard,2025-12-03,Yorkshire and the Humber
+258777026,Standard,2025-12-04,London
+260890272,Member,2025-12-04,Scotland
+972512781,Standard,2025-12-04,South West
+991443081,Standard,2025-12-04,East Midlands
+304232862,Standard,2025-12-05,South East
+380369758,Standard,2025-12-05,South West
+459327396,Standard,2025-12-05,Scotland
+486395415,Standard,2025-12-05,East Midlands
+184387888,Member,2025-12-06,South East
+294755317,Standard,2025-12-06,London
+612894424,Standard,2025-12-06,South East
+988502130,Standard,2025-12-06,South West
+752861529,Standard,2025-12-07,East of England
+885174496,Standard,2025-12-07,Scotland
+161884133,Member,2025-12-08,East of England
+370525355,Standard,2025-12-08,Yorkshire and the Humber
+243633660,Standard,2025-12-09,North West
+550058668,Standard,2025-12-09,South West
+812569703,Standard,2025-12-09,North East
+893334935,Standard,2025-12-09,West Midlands
+269471771,Member,2025-12-10,North West
+675840180,Member,2025-12-10,North West
+892953714,Standard,2025-12-10,Scotland
+139787571,Member,2025-12-11,Wales
+323989028,Standard,2025-12-11,Scotland
+440700305,Standard,2025-12-11,East Midlands
+553879139,Standard,2025-12-11,London
+811816203,Trade,2025-12-12,London
+828800717,Member,2025-12-12,South West
+939294535,Standard,2025-12-12,East Midlands
+211195539,Standard,2025-12-13,East Midlands
+235816541,Standard,2025-12-13,North West
+283170392,Member,2025-12-13,London
+392716991,Member,2025-12-13,London
+297403547,Standard,2025-12-14,London
+406327892,Standard,2025-12-14,North West
+809097746,Member,2025-12-14,Yorkshire and the Humber
+815940001,Standard,2025-12-14,South East
+908623880,Standard,2025-12-14,London
+910567423,Standard,2025-12-14,East of England
+306445267,Standard,2025-12-15,Scotland
+833149608,Standard,2025-12-15,South West
+980579647,Standard,2025-12-16,North East
+102035186,Standard,2025-12-17,London
+178405566,Member,2025-12-18,South West
+348687721,Standard,2025-12-18,Scotland
+396730736,Member,2025-12-18,Yorkshire and the Humber
+687243705,Trade,2025-12-19,North West
+772286185,Standard,2025-12-19,Yorkshire and the Humber
+963303416,Standard,2025-12-20,South East
+277608096,Standard,2025-12-21,North East
+243464271,Standard,2025-12-22,London
+430092233,Standard,2025-12-22,Wales
+559599234,Standard,2025-12-22,South East
+819152565,Standard,2025-12-22,Yorkshire and the Humber
+859341805,Standard,2025-12-22,South West
+152742006,Standard,2025-12-23,South East
+936786176,Standard,2025-12-23,South East
+261463286,Member,2025-12-24,Yorkshire and the Humber
+831939571,Standard,2025-12-24,South East
+855779502,Standard,2025-12-24,North West
+454441558,Standard,2025-12-25,South East
+588027615,Member,2025-12-25,London
+670698387,Member,2025-12-25,South East
+861884962,Standard,2025-12-25,Wales
+733175209,Standard,2025-12-26,East of England
+388765953,Member,2025-12-27,Scotland
+524121802,Member,2025-12-27,London
+702395019,Standard,2025-12-27,East Midlands
+314111078,Standard,2025-12-28,London
+527539044,Standard,2025-12-28,West Midlands
+561729358,Standard,2025-12-28,East of England
+910013759,Standard,2025-12-28,Yorkshire and the Humber
+399198351,Standard,2025-12-29,Yorkshire and the Humber
+789314339,Member,2025-12-29,London
+946566870,Trade,2025-12-29,South West
+651618314,Member,2025-12-30,East of England
+913582040,Member,2025-12-30,London
